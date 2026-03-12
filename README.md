@@ -1,7 +1,7 @@
 # Hi, I'm Berkay 👋
 
 🎓 Computer Programming Student  
-💻 Full-Stack Developer (Mobile focused)  
+💻 Junior Developer (Mobile focused)  
 🌐 Strong foundation in Networking & Systems  
 
 I build scalable, secure and production-ready applications using modern technologies.
